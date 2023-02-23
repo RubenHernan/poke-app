@@ -1,0 +1,13 @@
+.App{
+    background-color: var(--color-body);
+    color: var(--color--text);
+}
+
+.darkmode{
+    --color-body: #000000;
+    --color-primary: #1d929ade;
+    --color-secundary: #212121;
+    --color-white: #484848;
+    --color--text: #ffffff;
+    --color-ligth: rgb(157, 157, 157);
+}

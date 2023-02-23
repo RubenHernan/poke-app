@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+:root{
+    --color-body: #E5E5E5;
+    --color-primary: #DD1A1A;
+    --color-secundary:#0C0C0C;
+    --color-white: #FFFFFF;
+    --color--text: #000000;
+    --color-grey: #b1b0b0;
+    --color-ligth: rgb(235, 235, 235);
+}
+
+/* --- RESET --- */
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    font-family: 'Didact Gothic', sans-serif;
+
+  }
+  h1, h2,h3, p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  ul {
+    padding-left: 0;
+    list-style: none;
+  }
+  img {
+    display: block;
+    width: 100%;
+  }
+  input {
+    outline: none;
+  }
+
+  button {
+    cursor: pointer;
+    font-family: inherit;
+    border: none;
+  }
