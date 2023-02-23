@@ -5,7 +5,6 @@ import { useNavigate } from 'react-router-dom';
 import NotFound from '../components/Pokedex/NotFound';
 import Pagination from '../components/Pokedex/Pagination';
 import PokeCard from '../components/Pokedex/PokeCard';
-import SelectCantidad from '../components/Pokedex/selectCantidad';
 import SelectTypes from '../components/Pokedex/SelectTypes';
 import Bar from '../components/shared/Bar';
 import "./styles/pokedex.css"
